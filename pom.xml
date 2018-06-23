@@ -10,6 +10,16 @@
     <packaging>war</packaging>
 
 
+     <project ...>
+     	<!-- restante omitido... -->
+     	<developers>
+        <developer>
+             <name>John Doe</name>
+             <email>jdoe@example.com</email>
+         </developer>
+     	 </developers>
+    </project>
+
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <failOnMissingWebXml>false</failOnMissingWebXml>
